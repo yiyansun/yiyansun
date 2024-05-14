@@ -11,9 +11,6 @@ I'm <b>Yiyan</b> from Beijing, China.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyansun&layout=compact" />
     </a>
 </div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yiyansun" />
-</div>
 
 
 
